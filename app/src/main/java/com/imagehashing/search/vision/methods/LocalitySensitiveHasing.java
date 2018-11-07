@@ -62,7 +62,7 @@ public class LocalitySensitiveHasing {
                 double similarityThreshold = l;
                 Matrix difference = xIMatrix.minus(jMatrix);
                 Matrix transpose = difference.transpose();
-                int similarityMeasured = transpose.times(AMatrix).times(difference);
+                Matrix P = transpose.times(AMatrix).times(difference);
                 double similarity = -1;
                 if (isSimilar)
                     similarity = 1;
