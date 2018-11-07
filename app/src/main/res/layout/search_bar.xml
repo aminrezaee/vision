@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/image_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+        <android.support.v7.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/search_image_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/eight_dp"
+            app:cardCornerRadius="@dimen/four_dp">
+
+            <ImageView
+                android:id="@+id/search_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true" />
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:id="@+id/features"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/features_title"
+            android:layout_margin="@dimen/eight_dp"
+            android:layout_toLeftOf="@+id/search_image_layout"
+            android:text="@string/settings" />
+
+        <TextView
+            android:id="@+id/features_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/eight_dp"
+            android:layout_toLeftOf="@+id/search_image_layout"
+            android:text="@string/features" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/search_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:padding="@dimen/eight_dp">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/image_button_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/eight_dp">
+
+            <ImageView
+                android:id="@+id/image_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/eight_dp" />
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:id="@+id/search_box"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@id/image_button_layout"
+            android:background="@null"
+            android:padding="@dimen/eight_dp"
+            android:text="@string/search_images" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

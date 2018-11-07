@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/search_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:padding="@dimen/eight_dp">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/image_button_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/eight_dp"
+                android:visibility="invisible">
+
+                <ImageView
+                    android:id="@+id/image_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/eight_dp" />
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toStartOf="@id/image_button_layout"
+                android:background="@null"
+                android:padding="@dimen/eight_dp"
+                android:text="@string/choose_image" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:layout_below="@id/header">
+
+        <RelativeLayout
+            android:id="@+id/results_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/image_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </android.support.v7.widget.RecyclerView>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,2090 @@
+Enter Image Path: ./data/Images/1001.jpg: Predicted in 25.912094 seconds.
+bottle: 87%
+Enter Image Path: ./data/Images/1002.jpg: Predicted in 29.400990 seconds.
+Enter Image Path: ./data/Images/1003.jpg: Predicted in 29.762170 seconds.
+refrigerator: 76%
+bottle: 99%
+Enter Image Path: ./data/Images/1004.jpg: Predicted in 30.070248 seconds.
+Enter Image Path: ./data/Images/1005.jpg: Predicted in 31.450970 seconds.
+Enter Image Path: ./data/Images/1006.jpg: Predicted in 29.204721 seconds.
+Enter Image Path: ./data/Images/1007.jpg: Predicted in 26.218257 seconds.
+Enter Image Path: ./data/Images/1008.jpg: Predicted in 29.237039 seconds.
+bench: 88%
+bench: 76%
+bench: 76%
+Enter Image Path: ./data/Images/1009.jpg: Predicted in 27.950736 seconds.
+Enter Image Path: ./data/Images/1010.jpg: Predicted in 28.079594 seconds.
+Enter Image Path: ./data/Images/1011.jpg: Predicted in 29.616882 seconds.
+Enter Image Path: ./data/Images/1012.jpg: Predicted in 29.260663 seconds.
+Enter Image Path: ./data/Images/1013.jpg: Predicted in 28.540585 seconds.
+bench: 74%
+Enter Image Path: ./data/Images/1014.jpg: Predicted in 28.425387 seconds.
+bench: 94%
+person: 53%
+Enter Image Path: ./data/Images/1015.jpg: Predicted in 27.564938 seconds.
+Enter Image Path: ./data/Images/1016.jpg: Predicted in 27.889462 seconds.
+Enter Image Path: ./data/Images/1017.jpg: Predicted in 28.206768 seconds.
+Enter Image Path: ./data/Images/1018.jpg: Predicted in 27.616482 seconds.
+chair: 81%
+Enter Image Path: ./data/Images/1019.jpg: Predicted in 27.804025 seconds.
+Enter Image Path: ./data/Images/1020.jpg: Predicted in 28.177963 seconds.
+Enter Image Path: ./data/Images/1021.jpg: Predicted in 28.825963 seconds.
+diningtable: 82%
+bench: 98%
+car: 68%
+Enter Image Path: ./data/Images/1022.jpg: Predicted in 27.986036 seconds.
+Enter Image Path: ./data/Images/1023.jpg: Predicted in 26.414552 seconds.
+Enter Image Path: ./data/Images/1024.jpg: Predicted in 28.864958 seconds.
+Enter Image Path: ./data/Images/1025.jpg: Predicted in 28.088601 seconds.
+Enter Image Path: ./data/Images/1026.jpg: Predicted in 28.123831 seconds.
+Enter Image Path: ./data/Images/1027.jpg: Predicted in 28.127982 seconds.
+Enter Image Path: ./data/Images/1028.jpg: Predicted in 26.659969 seconds.
+Enter Image Path: ./data/Images/1029.jpg: Predicted in 26.453556 seconds.
+bench: 94%
+Enter Image Path: ./data/Images/1030.jpg: Predicted in 31.159831 seconds.
+Enter Image Path: ./data/Images/1031.jpg: Predicted in 30.782171 seconds.
+Enter Image Path: ./data/Images/1033.jpg: Predicted in 25.555664 seconds.
+Enter Image Path: ./data/Images/1034.jpg: Predicted in 27.384780 seconds.
+Enter Image Path: ./data/Images/1035.jpg: Predicted in 28.129643 seconds.
+Enter Image Path: ./data/Images/1036.jpg: Predicted in 27.023568 seconds.
+car: 88%
+car: 86%
+car: 61%
+car: 59%
+car: 58%
+Enter Image Path: ./data/Images/1037.jpg: Predicted in 28.184152 seconds.
+truck: 69%
+truck: 66%
+truck: 56%
+car: 90%
+car: 88%
+car: 85%
+car: 84%
+car: 80%
+car: 74%
+car: 71%
+car: 71%
+car: 70%
+car: 55%
+car: 51%
+Enter Image Path: ./data/Images/1039.jpg: Predicted in 25.834786 seconds.
+car: 89%
+car: 78%
+car: 69%
+Enter Image Path: ./data/Images/1040.jpg: Predicted in 30.679021 seconds.
+car: 61%
+truck: 53%
+car: 94%
+car: 83%
+car: 54%
+Enter Image Path: ./data/Images/1041.jpg: Predicted in 28.035007 seconds.
+Enter Image Path: ./data/Images/1042.jpg: Predicted in 29.631718 seconds.
+Enter Image Path: ./data/Images/1045.jpg: Predicted in 28.258850 seconds.
+Enter Image Path: ./data/Images/1046.jpg: Predicted in 28.798587 seconds.
+Enter Image Path: ./data/Images/1047.jpg: Predicted in 27.888925 seconds.
+stop sign: 61%
+Enter Image Path: ./data/Images/1048.jpg: Predicted in 28.151322 seconds.
+book: 56%
+Enter Image Path: ./data/Images/1050.jpg: Predicted in 29.958093 seconds.
+Enter Image Path: ./data/Images/1052.jpg: Predicted in 27.998651 seconds.
+bottle: 55%
+Enter Image Path: ./data/Images/1053.jpg: Predicted in 27.988360 seconds.
+bottle: 76%
+Enter Image Path: ./data/Images/1054.jpg: Predicted in 28.088180 seconds.
+diningtable: 87%
+bottle: 99%
+Enter Image Path: ./data/Images/1057.jpg: Predicted in 30.011470 seconds.
+Enter Image Path: ./data/Images/1061.jpg: Predicted in 27.667868 seconds.
+car: 100%
+Enter Image Path: ./data/Images/1065.jpg: Predicted in 28.031541 seconds.
+Enter Image Path: ./data/Images/1067.jpg: Predicted in 27.391296 seconds.
+Enter Image Path: ./data/Images/1069.jpg: Predicted in 29.754247 seconds.
+car: 77%
+Enter Image Path: ./data/Images/1071.jpg: Predicted in 30.781970 seconds.
+Enter Image Path: ./data/Images/1073.jpg: Predicted in 26.075695 seconds.
+car: 100%
+Enter Image Path: ./data/Images/1074.jpg: Predicted in 27.510318 seconds.
+Enter Image Path: ./data/Images/1075.jpg: Predicted in 28.300060 seconds.
+Enter Image Path: ./data/Images/1076.jpg: Predicted in 28.670776 seconds.
+oven: 64%
+Enter Image Path: ./data/Images/1077.jpg: Predicted in 27.926262 seconds.
+book: 63%
+book: 63%
+book: 59%
+book: 51%
+Enter Image Path: ./data/Images/1078.jpg: Predicted in 27.927329 seconds.
+Enter Image Path: ./data/Images/1084.jpg: Predicted in 28.554470 seconds.
+person: 78%
+Enter Image Path: ./data/Images/1085.jpg: Predicted in 27.329938 seconds.
+book: 80%
+book: 52%
+book: 51%
+Enter Image Path: ./data/Images/1086.jpg: Predicted in 28.926247 seconds.
+Enter Image Path: ./data/Images/1087.jpg: Predicted in 29.479764 seconds.
+book: 79%
+chair: 84%
+chair: 99%
+chair: 96%
+chair: 96%
+Enter Image Path: ./data/Images/1088.jpg: Predicted in 28.184082 seconds.
+book: 65%
+book: 64%
+book: 64%
+book: 61%
+book: 59%
+book: 57%
+book: 54%
+book: 52%
+book: 50%
+chair: 60%
+Enter Image Path: ./data/Images/1089.jpg: Predicted in 25.340628 seconds.
+book: 57%
+book: 54%
+Enter Image Path: ./data/Images/1090.jpg: Predicted in 27.518112 seconds.
+Enter Image Path: ./data/Images/1091.jpg: Predicted in 30.421679 seconds.
+Enter Image Path: ./data/Images/1092.jpg: Predicted in 27.992143 seconds.
+Enter Image Path: ./data/Images/1093.jpg: Predicted in 26.079512 seconds.
+book: 54%
+Enter Image Path: ./data/Images/1094.jpg: Predicted in 28.252502 seconds.
+person: 70%
+person: 58%
+person: 52%
+Enter Image Path: ./data/Images/1095.jpg: Predicted in 28.665326 seconds.
+Enter Image Path: ./data/Images/1097.jpg: Predicted in 28.615838 seconds.
+car: 99%
+car: 97%
+car: 89%
+car: 64%
+Enter Image Path: ./data/Images/1098.jpg: Predicted in 28.972327 seconds.
+truck: 80%
+car: 100%
+car: 99%
+car: 98%
+car: 98%
+car: 95%
+car: 90%
+car: 76%
+car: 68%
+car: 52%
+person: 92%
+person: 92%
+person: 91%
+person: 91%
+person: 90%
+person: 90%
+person: 82%
+person: 82%
+person: 81%
+person: 76%
+person: 69%
+person: 65%
+person: 62%
+person: 62%
+Enter Image Path: ./data/Images/1100.jpg: Predicted in 26.057714 seconds.
+truck: 92%
+truck: 92%
+car: 97%
+Enter Image Path: ./data/Images/1101.jpg: Predicted in 28.866804 seconds.
+truck: 94%
+car: 100%
+car: 94%
+Enter Image Path: ./data/Images/1102.jpg: Predicted in 25.356205 seconds.
+car: 99%
+car: 95%
+car: 94%
+car: 73%
+Enter Image Path: ./data/Images/1103.jpg: Predicted in 27.495294 seconds.
+umbrella: 64%
+truck: 94%
+truck: 74%
+truck: 52%
+car: 100%
+car: 99%
+car: 82%
+car: 61%
+car: 51%
+Enter Image Path: ./data/Images/1109.jpg: Predicted in 26.504825 seconds.
+car: 99%
+car: 87%
+car: 85%
+car: 83%
+Enter Image Path: ./data/Images/1110.jpg: Predicted in 28.394342 seconds.
+Enter Image Path: ./data/Images/1111.jpg: Predicted in 28.103887 seconds.
+Enter Image Path: ./data/Images/1112.jpg: Predicted in 27.923195 seconds.
+truck: 100%
+truck: 57%
+car: 65%
+Enter Image Path: ./data/Images/1113.jpg: Predicted in 29.074087 seconds.
+truck: 58%
+car: 75%
+Enter Image Path: ./data/Images/1114.jpg: Predicted in 25.509745 seconds.
+truck: 99%
+truck: 66%
+car: 97%
+car: 96%
+Enter Image Path: ./data/Images/1115.jpg: Predicted in 29.651322 seconds.
+car: 100%
+Enter Image Path: ./data/Images/1117.jpg: Predicted in 28.177064 seconds.
+person: 92%
+baseball glove: 52%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 97%
+person: 97%
+person: 97%
+person: 97%
+person: 94%
+person: 94%
+person: 91%
+person: 80%
+person: 64%
+person: 63%
+person: 56%
+person: 54%
+Enter Image Path: ./data/Images/1118.jpg: Predicted in 28.030293 seconds.
+person: 100%
+Enter Image Path: ./data/Images/1120.jpg: Predicted in 25.463196 seconds.
+car: 60%
+car: 58%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 95%
+person: 94%
+person: 94%
+person: 93%
+person: 92%
+person: 91%
+person: 89%
+person: 84%
+person: 79%
+person: 79%
+person: 61%
+Enter Image Path: ./data/Images/1121.jpg: Predicted in 28.292389 seconds.
+person: 100%
+person: 99%
+person: 96%
+person: 96%
+person: 95%
+person: 94%
+person: 93%
+person: 92%
+person: 88%
+person: 84%
+person: 83%
+person: 82%
+person: 81%
+person: 80%
+person: 78%
+person: 72%
+person: 64%
+person: 56%
+person: 53%
+Enter Image Path: ./data/Images/1122.jpg: Predicted in 25.373007 seconds.
+person: 77%
+person: 71%
+Enter Image Path: ./data/Images/1135.jpg: Predicted in 29.299284 seconds.
+car: 100%
+person: 53%
+Enter Image Path: ./data/Images/1136.jpg: Predicted in 28.655686 seconds.
+truck: 62%
+car: 82%
+car: 80%
+Enter Image Path: ./data/Images/1138.jpg: Predicted in 25.335081 seconds.
+bench: 88%
+bicycle: 99%
+bicycle: 99%
+Enter Image Path: ./data/Images/1139.jpg: Predicted in 27.710804 seconds.
+truck: 99%
+truck: 75%
+car: 100%
+car: 96%
+car: 93%
+car: 80%
+car: 70%
+car: 69%
+car: 67%
+car: 60%
+car: 54%
+Enter Image Path: ./data/Images/1140.jpg: Predicted in 27.798698 seconds.
+Enter Image Path: ./data/Images/1141.jpg: Predicted in 25.457086 seconds.
+Enter Image Path: ./data/Images/1144.jpg: Predicted in 27.740321 seconds.
+car: 99%
+car: 76%
+Enter Image Path: ./data/Images/1145.jpg: Predicted in 28.497201 seconds.
+car: 100%
+Enter Image Path: ./data/Images/1146.jpg: Predicted in 27.920555 seconds.
+refrigerator: 57%
+chair: 57%
+Enter Image Path: ./data/Images/1147.jpg: Predicted in 27.246571 seconds.
+truck: 65%
+car: 99%
+car: 94%
+Enter Image Path: ./data/Images/1149.jpg: Predicted in 27.702061 seconds.
+car: 74%
+person: 96%
+person: 61%
+person: 61%
+Enter Image Path: ./data/Images/1150.jpg: Predicted in 28.373962 seconds.
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 98%
+person: 96%
+person: 96%
+person: 91%
+person: 89%
+person: 51%
+Enter Image Path: ./data/Images/1151.jpg: Predicted in 28.139436 seconds.
+person: 99%
+person: 98%
+person: 97%
+person: 96%
+person: 96%
+person: 95%
+person: 95%
+person: 90%
+person: 87%
+person: 87%
+person: 85%
+person: 81%
+person: 75%
+person: 74%
+Enter Image Path: ./data/Images/1152.jpg: Predicted in 29.062416 seconds.
+person: 99%
+person: 94%
+person: 89%
+person: 87%
+person: 82%
+person: 79%
+person: 71%
+person: 68%
+person: 67%
+person: 65%
+person: 63%
+person: 62%
+person: 60%
+person: 54%
+person: 51%
+person: 50%
+Enter Image Path: ./data/Images/1153.jpg: Predicted in 27.941711 seconds.
+person: 99%
+person: 99%
+person: 97%
+person: 69%
+person: 66%
+person: 63%
+Enter Image Path: ./data/Images/1154.jpg: Predicted in 25.720033 seconds.
+baseball glove: 55%
+car: 73%
+car: 68%
+car: 50%
+person: 100%
+person: 99%
+person: 97%
+person: 97%
+person: 96%
+person: 56%
+Enter Image Path: ./data/Images/1155.jpg: Predicted in 27.003104 seconds.
+person: 99%
+person: 98%
+person: 97%
+person: 96%
+person: 93%
+person: 91%
+person: 91%
+person: 87%
+person: 85%
+person: 82%
+person: 78%
+person: 77%
+person: 72%
+person: 71%
+person: 54%
+person: 50%
+Enter Image Path: ./data/Images/1156.jpg: Predicted in 26.908065 seconds.
+baseball bat: 90%
+car: 67%
+car: 64%
+person: 100%
+person: 100%
+person: 100%
+person: 98%
+person: 98%
+person: 59%
+Enter Image Path: ./data/Images/1157.jpg: Predicted in 30.345028 seconds.
+car: 95%
+person: 99%
+person: 99%
+person: 97%
+person: 82%
+person: 56%
+person: 50%
+Enter Image Path: ./data/Images/1158.jpg: Predicted in 27.838327 seconds.
+baseball glove: 55%
+baseball bat: 60%
+person: 100%
+person: 100%
+person: 99%
+person: 98%
+person: 61%
+person: 60%
+Enter Image Path: ./data/Images/1159.jpg: Predicted in 25.380495 seconds.
+baseball glove: 92%
+baseball bat: 52%
+car: 75%
+car: 74%
+car: 55%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 77%
+person: 59%
+Enter Image Path: ./data/Images/1160.jpg: Predicted in 29.379900 seconds.
+baseball glove: 62%
+baseball glove: 60%
+baseball glove: 59%
+car: 80%
+person: 100%
+person: 100%
+person: 100%
+person: 97%
+person: 97%
+person: 96%
+person: 90%
+person: 62%
+Enter Image Path: ./data/Images/1161.jpg: Predicted in 27.881192 seconds.
+baseball glove: 95%
+baseball bat: 77%
+truck: 63%
+car: 69%
+car: 64%
+person: 100%
+person: 99%
+person: 99%
+person: 72%
+Enter Image Path: ./data/Images/1162.jpg: Predicted in 25.426183 seconds.
+baseball glove: 96%
+person: 100%
+person: 100%
+person: 99%
+person: 97%
+person: 88%
+Enter Image Path: ./data/Images/1163.jpg: Predicted in 31.059231 seconds.
+baseball glove: 73%
+baseball glove: 63%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+Enter Image Path: ./data/Images/1164.jpg: Predicted in 30.866754 seconds.
+person: 99%
+person: 97%
+Enter Image Path: ./data/Images/1165.jpg: Predicted in 27.799627 seconds.
+car: 82%
+car: 79%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 97%
+person: 95%
+person: 91%
+person: 85%
+person: 83%
+person: 68%
+person: 56%
+Enter Image Path: ./data/Images/1166.jpg: Predicted in 26.883929 seconds.
+baseball glove: 99%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+Enter Image Path: ./data/Images/1167.jpg: Predicted in 26.018962 seconds.
+baseball glove: 86%
+car: 95%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+Enter Image Path: ./data/Images/1168.jpg: Predicted in 28.161186 seconds.
+baseball glove: 67%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 96%
+person: 95%
+person: 93%
+person: 88%
+person: 88%
+person: 85%
+person: 85%
+person: 85%
+person: 84%
+person: 80%
+person: 74%
+person: 74%
+person: 73%
+person: 72%
+person: 62%
+person: 62%
+Enter Image Path: ./data/Images/1169.jpg: Predicted in 28.054764 seconds.
+person: 95%
+baseball glove: 55%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 96%
+person: 95%
+person: 95%
+person: 95%
+person: 95%
+person: 94%
+person: 92%
+person: 87%
+person: 68%
+person: 68%
+person: 53%
+Enter Image Path: ./data/Images/1170.jpg: Predicted in 27.841913 seconds.
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 97%
+person: 94%
+person: 87%
+person: 52%
+Enter Image Path: ./data/Images/1171.jpg: Predicted in 28.285434 seconds.
+car: 51%
+Enter Image Path: ./data/Images/1172.jpg: Predicted in 28.112334 seconds.
+baseball glove: 54%
+baseball bat: 68%
+truck: 68%
+person: 100%
+person: 100%
+person: 100%
+person: 91%
+person: 83%
+person: 73%
+person: 69%
+person: 69%
+person: 54%
+Enter Image Path: ./data/Images/1174.jpg: Predicted in 28.267593 seconds.
+bus: 51%
+car: 80%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 94%
+person: 93%
+Enter Image Path: ./data/Images/1175.jpg: Predicted in 27.938044 seconds.
+person: 100%
+person: 99%
+person: 98%
+person: 87%
+Enter Image Path: ./data/Images/1176.jpg: Predicted in 27.989546 seconds.
+baseball glove: 68%
+car: 70%
+car: 62%
+car: 59%
+car: 50%
+person: 100%
+person: 100%
+person: 100%
+person: 98%
+person: 95%
+person: 92%
+Enter Image Path: ./data/Images/1177.jpg: Predicted in 29.237604 seconds.
+car: 59%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 97%
+person: 92%
+Enter Image Path: ./data/Images/1178.jpg: Predicted in 28.024854 seconds.
+baseball glove: 92%
+baseball glove: 85%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 98%
+person: 97%
+person: 90%
+Enter Image Path: ./data/Images/1179.jpg: Predicted in 27.389277 seconds.
+baseball glove: 58%
+baseball glove: 57%
+car: 93%
+car: 82%
+car: 70%
+car: 53%
+person: 100%
+person: 100%
+Enter Image Path: ./data/Images/1180.jpg: Predicted in 28.933396 seconds.
+baseball glove: 91%
+car: 90%
+car: 87%
+car: 80%
+car: 54%
+person: 100%
+person: 99%
+person: 90%
+person: 89%
+person: 68%
+person: 53%
+person: 52%
+Enter Image Path: ./data/Images/1181.jpg: Predicted in 28.313706 seconds.
+baseball glove: 80%
+baseball bat: 69%
+baseball bat: 68%
+car: 52%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 97%
+person: 90%
+person: 85%
+person: 84%
+person: 64%
+person: 64%
+person: 56%
+person: 56%
+Enter Image Path: ./data/Images/1182.jpg: Predicted in 28.015867 seconds.
+baseball bat: 78%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 97%
+person: 96%
+person: 94%
+person: 91%
+person: 88%
+person: 77%
+person: 72%
+person: 65%
+person: 60%
+person: 55%
+Enter Image Path: ./data/Images/1183.jpg: Predicted in 28.208549 seconds.
+baseball glove: 52%
+car: 58%
+car: 50%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+Enter Image Path: ./data/Images/1184.jpg: Predicted in 29.656765 seconds.
+baseball glove: 68%
+baseball bat: 69%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 67%
+person: 67%
+person: 63%
+person: 57%
+person: 57%
+person: 51%
+Enter Image Path: ./data/Images/1185.jpg: Predicted in 26.153681 seconds.
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 97%
+person: 86%
+person: 81%
+person: 72%
+person: 64%
+person: 64%
+Enter Image Path: ./data/Images/1186.jpg: Predicted in 29.848754 seconds.
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 98%
+person: 97%
+person: 96%
+person: 95%
+person: 93%
+person: 93%
+person: 93%
+person: 89%
+person: 88%
+person: 87%
+person: 83%
+person: 79%
+person: 78%
+person: 76%
+person: 72%
+person: 72%
+person: 63%
+person: 61%
+person: 59%
+person: 58%
+person: 56%
+person: 51%
+Enter Image Path: ./data/Images/1187.jpg: Predicted in 27.691017 seconds.
+person: 99%
+Enter Image Path: ./data/Images/1188.jpg: Predicted in 25.369171 seconds.
+person: 99%
+Enter Image Path: ./data/Images/1189.jpg: Predicted in 30.552960 seconds.
+person: 99%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 98%
+person: 98%
+person: 98%
+person: 97%
+person: 97%
+person: 97%
+person: 97%
+person: 96%
+person: 95%
+person: 95%
+person: 90%
+person: 86%
+person: 80%
+person: 73%
+person: 70%
+person: 68%
+person: 57%
+person: 57%
+person: 54%
+Enter Image Path: ./data/Images/1190.jpg: Predicted in 27.718068 seconds.
+baseball glove: 71%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 88%
+person: 87%
+person: 76%
+person: 66%
+person: 56%
+person: 53%
+person: 52%
+Enter Image Path: ./data/Images/1191.jpg: Predicted in 27.864094 seconds.
+car: 72%
+car: 71%
+car: 70%
+car: 52%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 96%
+person: 87%
+Enter Image Path: ./data/Images/1192.jpg: Predicted in 26.855677 seconds.
+car: 72%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 97%
+person: 93%
+person: 60%
+person: 59%
+Enter Image Path: ./data/Images/1193.jpg: Predicted in 28.562228 seconds.
+baseball glove: 57%
+person: 100%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 97%
+person: 73%
+person: 59%
+person: 55%
+person: 55%
+person: 51%
+Enter Image Path: ./data/Images/1194.jpg: Predicted in 28.013450 seconds.
+baseball glove: 84%
+car: 99%
+car: 54%
+car: 52%
+car: 52%
+person: 100%
+person: 100%
+person: 100%
+person: 92%
+Enter Image Path: ./data/Images/1195.jpg: Predicted in 27.578820 seconds.
+baseball glove: 52%
+person: 100%
+person: 100%
+person: 99%
+person: 91%
+person: 88%
+person: 73%
+person: 55%
+person: 51%
+person: 50%
+Enter Image Path: ./data/Images/1196.jpg: Predicted in 28.265561 seconds.
+baseball glove: 97%
+person: 100%
+person: 100%
+person: 100%
+person: 97%
+person: 76%
+person: 72%
+person: 63%
+person: 61%
+person: 54%
+person: 53%
+Enter Image Path: ./data/Images/1197.jpg: Predicted in 28.133811 seconds.
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 92%
+person: 88%
+person: 88%
+person: 72%
+person: 70%
+person: 62%
+person: 51%
+Enter Image Path: ./data/Images/1200.jpg: Predicted in 28.004495 seconds.
+Enter Image Path: ./data/Images/1201.jpg: Predicted in 27.948854 seconds.
+Enter Image Path: ./data/Images/1203.jpg: Predicted in 28.074835 seconds.
+book: 68%
+book: 65%
+book: 64%
+book: 60%
+book: 58%
+book: 54%
+book: 54%
+book: 53%
+book: 52%
+book: 52%
+book: 50%
+Enter Image Path: ./data/Images/1204.jpg: Predicted in 27.993831 seconds.
+book: 98%
+book: 98%
+book: 98%
+book: 97%
+book: 97%
+book: 96%
+book: 96%
+book: 94%
+book: 92%
+book: 91%
+book: 90%
+book: 90%
+book: 90%
+book: 89%
+book: 87%
+book: 83%
+book: 82%
+book: 80%
+book: 77%
+book: 75%
+book: 69%
+book: 64%
+book: 57%
+book: 57%
+book: 56%
+book: 53%
+Enter Image Path: ./data/Images/1205.jpg: Predicted in 27.749110 seconds.
+book: 65%
+Enter Image Path: ./data/Images/1208.jpg: Predicted in 27.512021 seconds.
+book: 81%
+book: 68%
+Enter Image Path: ./data/Images/1210.jpg: Predicted in 29.287716 seconds.
+book: 97%
+book: 96%
+book: 96%
+book: 96%
+book: 92%
+book: 92%
+book: 90%
+book: 90%
+book: 87%
+book: 86%
+book: 85%
+book: 76%
+book: 72%
+Enter Image Path: ./data/Images/1211.jpg: Predicted in 27.617734 seconds.
+book: 76%
+book: 72%
+book: 61%
+book: 58%
+book: 58%
+book: 57%
+book: 57%
+book: 53%
+book: 53%
+book: 52%
+book: 50%
+Enter Image Path: ./data/Images/1212.jpg: Predicted in 27.550329 seconds.
+book: 97%
+book: 92%
+book: 86%
+book: 81%
+book: 81%
+book: 77%
+book: 53%
+book: 51%
+Enter Image Path: ./data/Images/1213.jpg: Predicted in 27.548731 seconds.
+book: 97%
+book: 88%
+book: 83%
+book: 69%
+book: 60%
+Enter Image Path: ./data/Images/1216.jpg: Predicted in 27.492318 seconds.
+Enter Image Path: ./data/Images/1217.jpg: Predicted in 27.801236 seconds.
+book: 88%
+book: 84%
+book: 74%
+book: 71%
+book: 70%
+book: 67%
+book: 65%
+book: 55%
+book: 53%
+book: 52%
+Enter Image Path: ./data/Images/1218.jpg: Predicted in 27.497631 seconds.
+book: 96%
+book: 88%
+book: 84%
+book: 84%
+book: 73%
+book: 61%
+book: 53%
+Enter Image Path: ./data/Images/1222.jpg: Predicted in 30.735783 seconds.
+chair: 99%
+chair: 99%
+chair: 99%
+chair: 86%
+Enter Image Path: ./data/Images/1224.jpg: Predicted in 30.405122 seconds.
+Enter Image Path: ./data/Images/1232.jpg: Predicted in 25.745103 seconds.
+Enter Image Path: ./data/Images/1233.jpg: Predicted in 25.440376 seconds.
+Enter Image Path: ./data/Images/1240.jpg: Predicted in 28.361975 seconds.
+stop sign: 93%
+Enter Image Path: ./data/Images/1241.jpg: Predicted in 28.306768 seconds.
+Enter Image Path: ./data/Images/1242.jpg: Predicted in 25.516567 seconds.
+Enter Image Path: ./data/Images/1243.jpg: Predicted in 28.514457 seconds.
+bottle: 96%
+Enter Image Path: ./data/Images/1244.jpg: Predicted in 28.372605 seconds.
+bottle: 88%
+Enter Image Path: ./data/Images/1245.jpg: Predicted in 28.064794 seconds.
+bottle: 90%
+Enter Image Path: ./data/Images/1246.jpg: Predicted in 27.803838 seconds.
+bicycle: 84%
+Enter Image Path: ./data/Images/1247.jpg: Predicted in 29.339025 seconds.
+person: 60%
+Enter Image Path: ./data/Images/1248.jpg: Predicted in 27.113395 seconds.
+Enter Image Path: ./data/Images/1250.jpg: Predicted in 29.788068 seconds.
+Enter Image Path: ./data/Images/1251.jpg: Predicted in 26.007754 seconds.
+Enter Image Path: ./data/Images/1252.jpg: Predicted in 29.018302 seconds.
+Enter Image Path: ./data/Images/1253.jpg: Predicted in 28.379520 seconds.
+Enter Image Path: ./data/Images/1255.jpg: Predicted in 29.586039 seconds.
+Enter Image Path: ./data/Images/1257.jpg: Predicted in 25.368229 seconds.
+Enter Image Path: ./data/Images/1258.jpg: Predicted in 28.303216 seconds.
+Enter Image Path: ./data/Images/1259.jpg: Predicted in 28.013796 seconds.
+Enter Image Path: ./data/Images/1260.jpg: Predicted in 27.300727 seconds.
+Enter Image Path: ./data/Images/1261.jpg: Predicted in 28.646209 seconds.
+Enter Image Path: ./data/Images/1262.jpg: Predicted in 27.439249 seconds.
+car: 96%
+Enter Image Path: ./data/Images/1263.jpg: Predicted in 27.755175 seconds.
+Enter Image Path: ./data/Images/1264.jpg: Predicted in 28.014578 seconds.
+Enter Image Path: ./data/Images/1265.jpg: Predicted in 27.898329 seconds.
+Enter Image Path: ./data/Images/1266.jpg: Predicted in 28.396481 seconds.
+Enter Image Path: ./data/Images/1267.jpg: Predicted in 29.595791 seconds.
+Enter Image Path: ./data/Images/1270.jpg: Predicted in 28.720687 seconds.
+Enter Image Path: ./data/Images/1272.jpg: Predicted in 25.447900 seconds.
+car: 100%
+car: 99%
+car: 99%
+car: 93%
+car: 86%
+Enter Image Path: ./data/Images/1276.jpg: Predicted in 28.473512 seconds.
+Enter Image Path: ./data/Images/1277.jpg: Predicted in 28.339034 seconds.
+Enter Image Path: ./data/Images/1279.jpg: Predicted in 28.561755 seconds.
+car: 66%
+Enter Image Path: ./data/Images/1280.jpg: Predicted in 28.135334 seconds.
+truck: 76%
+car: 100%
+car: 97%
+car: 96%
+car: 76%
+car: 64%
+car: 52%
+Enter Image Path: ./data/Images/1281.jpg: Predicted in 28.624204 seconds.
+truck: 53%
+car: 70%
+car: 68%
+Enter Image Path: ./data/Images/1283.jpg: Predicted in 28.270053 seconds.
+Enter Image Path: ./data/Images/1284.jpg: Predicted in 27.993561 seconds.
+bench: 58%
+Enter Image Path: ./data/Images/1285.jpg: Predicted in 27.840133 seconds.
+Enter Image Path: ./data/Images/1289.jpg: Predicted in 28.106063 seconds.
+Enter Image Path: ./data/Images/1293.jpg: Predicted in 27.877816 seconds.
+person: 97%
+Enter Image Path: ./data/Images/1300.jpg: Predicted in 27.869590 seconds.
+truck: 87%
+truck: 82%
+truck: 60%
+car: 99%
+car: 99%
+car: 92%
+car: 91%
+Enter Image Path: ./data/Images/1301.jpg: Predicted in 27.998437 seconds.
+truck: 80%
+car: 57%
+car: 100%
+car: 99%
+car: 97%
+car: 96%
+car: 91%
+car: 83%
+car: 81%
+car: 75%
+car: 72%
+car: 70%
+car: 65%
+car: 64%
+person: 60%
+Enter Image Path: ./data/Images/1302.jpg: Predicted in 28.195899 seconds.
+truck: 100%
+truck: 99%
+car: 99%
+Enter Image Path: ./data/Images/1303.jpg: Predicted in 28.818262 seconds.
+Enter Image Path: ./data/Images/1313.jpg: Predicted in 27.681872 seconds.
+Enter Image Path: ./data/Images/1314.jpg: Predicted in 28.959910 seconds.
+Enter Image Path: ./data/Images/1315.jpg: Predicted in 29.041520 seconds.
+Enter Image Path: ./data/Images/1316.jpg: Predicted in 28.194913 seconds.
+Enter Image Path: ./data/Images/1317.jpg: Predicted in 28.999935 seconds.
+Enter Image Path: ./data/Images/1318.jpg: Predicted in 26.506751 seconds.
+Enter Image Path: ./data/Images/1319.jpg: Predicted in 28.165257 seconds.
+Enter Image Path: ./data/Images/1320.jpg: Predicted in 27.793318 seconds.
+Enter Image Path: ./data/Images/1321.jpg: Predicted in 28.183938 seconds.
+Enter Image Path: ./data/Images/1324.jpg: Predicted in 27.562547 seconds.
+Enter Image Path: ./data/Images/1329.jpg: Predicted in 28.118594 seconds.
+bottle: 96%
+Enter Image Path: ./data/Images/1330.jpg: Predicted in 27.675505 seconds.
+diningtable: 74%
+Enter Image Path: ./data/Images/1331.jpg: Predicted in 28.158195 seconds.
+person: 90%
+Enter Image Path: ./data/Images/1334.jpg: Predicted in 29.755634 seconds.
+Enter Image Path: ./data/Images/1338.jpg: Predicted in 32.161288 seconds.
+Enter Image Path: ./data/Images/1340.jpg: Predicted in 32.584172 seconds.
+diningtable: 50%
+Enter Image Path: ./data/Images/1343.jpg: Predicted in 31.676828 seconds.
+person: 94%
+Enter Image Path: ./data/Images/1345.jpg: Predicted in 31.445376 seconds.
+diningtable: 50%
+Enter Image Path: ./data/Images/1350.jpg: Predicted in 25.730733 seconds.
+truck: 60%
+car: 98%
+car: 96%
+car: 96%
+car: 88%
+car: 78%
+car: 62%
+car: 61%
+car: 59%
+Enter Image Path: ./data/Images/1352.jpg: Predicted in 28.474138 seconds.
+Enter Image Path: ./data/Images/1353.jpg: Predicted in 28.653730 seconds.
+Enter Image Path: ./data/Images/1356.jpg: Predicted in 29.740849 seconds.
+bird: 98%
+Enter Image Path: ./data/Images/1357.jpg: Predicted in 28.348753 seconds.
+bird: 100%
+bird: 99%
+bird: 98%
+Enter Image Path: ./data/Images/1359.jpg: Predicted in 27.265393 seconds.
+bird: 93%
+bird: 89%
+bird: 89%
+Enter Image Path: ./data/Images/1360.jpg: Predicted in 29.793487 seconds.
+Enter Image Path: ./data/Images/1363.jpg: Predicted in 28.734149 seconds.
+Enter Image Path: ./data/Images/1365.jpg: Predicted in 26.178233 seconds.
+Enter Image Path: ./data/Images/1366.jpg: Predicted in 28.389538 seconds.
+Enter Image Path: ./data/Images/1368.jpg: Predicted in 28.362680 seconds.
+car: 74%
+Enter Image Path: ./data/Images/1370.jpg: Predicted in 28.603400 seconds.
+Enter Image Path: ./data/Images/1371.jpg: Predicted in 28.185972 seconds.
+Enter Image Path: ./data/Images/1372.jpg: Predicted in 28.599396 seconds.
+Enter Image Path: ./data/Images/1373.jpg: Predicted in 28.502523 seconds.
+bear: 85%
+Enter Image Path: ./data/Images/1374.jpg: Predicted in 25.599734 seconds.
+Enter Image Path: ./data/Images/1376.jpg: Predicted in 25.808480 seconds.
+bird: 100%
+bird: 95%
+Enter Image Path: ./data/Images/1379.jpg: Predicted in 27.493785 seconds.
+bird: 99%
+bird: 80%
+Enter Image Path: ./data/Images/1380.jpg: Predicted in 27.649995 seconds.
+bird: 100%
+bird: 100%
+bird: 99%
+Enter Image Path: ./data/Images/1382.jpg: Predicted in 28.578119 seconds.
+book: 57%
+diningtable: 70%
+chair: 100%
+chair: 100%
+chair: 100%
+chair: 99%
+chair: 99%
+chair: 98%
+bowl: 67%
+bowl: 64%
+Enter Image Path: ./data/Images/1383.jpg: Predicted in 29.098344 seconds.
+chair: 99%
+chair: 98%
+bowl: 65%
+Enter Image Path: ./data/Images/1384.jpg: Predicted in 25.488652 seconds.
+frisbee: 67%
+Enter Image Path: ./data/Images/1385.jpg: Predicted in 28.270498 seconds.
+Enter Image Path: ./data/Images/1386.jpg: Predicted in 28.173252 seconds.
+Enter Image Path: ./data/Images/1388.jpg: Predicted in 28.799892 seconds.
+truck: 95%
+car: 92%
+Enter Image Path: ./data/Images/1390.jpg: Predicted in 27.588386 seconds.
+Enter Image Path: ./data/Images/1392.jpg: Predicted in 27.646650 seconds.
+Enter Image Path: ./data/Images/1397.jpg: Predicted in 25.507525 seconds.
+truck: 96%
+Enter Image Path: ./data/Images/1398.jpg: Predicted in 28.078898 seconds.
+Enter Image Path: ./data/Images/1401.jpg: Predicted in 28.125485 seconds.
+bird: 100%
+bird: 99%
+bird: 94%
+Enter Image Path: ./data/Images/1403.jpg: Predicted in 25.800229 seconds.
+bird: 100%
+bird: 100%
+bird: 100%
+Enter Image Path: ./data/Images/1404.jpg: Predicted in 28.810036 seconds.
+bird: 92%
+bird: 68%
+Enter Image Path: Enter Image Path: ./data/Images/1406.jpg: Predicted in 26.648816 seconds.
+Enter Image Path: ./data/Images/1407.jpg: Predicted in 26.015864 seconds.
+Enter Image Path: ./data/Images/1409.jpg: Predicted in 25.584150 seconds.
+Enter Image Path: ./data/Images/1410.jpg: Predicted in 25.477487 seconds.
+Enter Image Path: ./data/Images/1412.jpg: Predicted in 25.543229 seconds.
+car: 100%
+car: 100%
+Enter Image Path: ./data/Images/1413.jpg: Predicted in 25.368134 seconds.
+Enter Image Path: ./data/Images/1414.jpg: Predicted in 25.531803 seconds.
+Enter Image Path: ./data/Images/1415.jpg: Predicted in 25.548673 seconds.
+Enter Image Path: ./data/Images/1419.jpg: Predicted in 29.526476 seconds.
+Enter Image Path: ./data/Images/1420.jpg: Predicted in 25.549447 seconds.
+person: 88%
+Enter Image Path: ./data/Images/1422.jpg: Predicted in 25.536295 seconds.
+Enter Image Path: ./data/Images/1423.jpg: Predicted in 28.731403 seconds.
+cell phone: 79%
+Enter Image Path: ./data/Images/1424.jpg: Predicted in 25.485997 seconds.
+Enter Image Path: ./data/Images/1425.jpg: Predicted in 26.412119 seconds.
+Enter Image Path: ./data/Images/1426.jpg: Predicted in 26.667790 seconds.
+Enter Image Path: ./data/Images/1427.jpg: Predicted in 25.682424 seconds.
+book: 91%
+book: 83%
+book: 80%
+book: 80%
+book: 79%
+book: 78%
+book: 77%
+book: 77%
+book: 76%
+book: 76%
+book: 75%
+book: 72%
+book: 72%
+book: 71%
+book: 70%
+book: 67%
+book: 66%
+book: 65%
+book: 65%
+book: 64%
+book: 63%
+book: 63%
+book: 62%
+book: 62%
+book: 61%
+book: 59%
+book: 59%
+book: 58%
+book: 57%
+book: 56%
+book: 55%
+book: 55%
+book: 54%
+book: 53%
+book: 53%
+book: 51%
+book: 51%
+book: 51%
+book: 51%
+book: 50%
+Enter Image Path: ./data/Images/1435.jpg: Predicted in 31.085132 seconds.
+refrigerator: 89%
+person: 79%
+Enter Image Path: ./data/Images/1436.jpg: Predicted in 31.463486 seconds.
+parking meter: 53%
+Enter Image Path: ./data/Images/1437.jpg: Predicted in 25.732293 seconds.
+bottle: 95%
+bottle: 95%
+bottle: 92%
+bottle: 88%
+bottle: 86%
+bottle: 86%
+bottle: 85%
+bottle: 84%
+bottle: 83%
+bottle: 82%
+bottle: 81%
+bottle: 81%
+bottle: 79%
+bottle: 78%
+bottle: 78%
+bottle: 76%
+bottle: 75%
+bottle: 74%
+bottle: 64%
+bottle: 61%
+bottle: 55%
+bottle: 50%
+bottle: 50%
+Enter Image Path: ./data/Images/1438.jpg: Predicted in 26.099546 seconds.
+Enter Image Path: ./data/Images/1439.jpg: Predicted in 26.590729 seconds.
+refrigerator: 94%
+Enter Image Path: ./data/Images/1440.jpg: Predicted in 26.846936 seconds.
+Enter Image Path: ./data/Images/1442.jpg: Predicted in 29.883964 seconds.
+book: 67%
+chair: 80%
+Enter Image Path: ./data/Images/1443.jpg: Predicted in 27.956465 seconds.
+car: 52%
+Enter Image Path: ./data/Images/1446.jpg: Predicted in 27.537136 seconds.
+Enter Image Path: ./data/Images/1456.jpg: Predicted in 28.952955 seconds.
+Enter Image Path: ./data/Images/1460.jpg: Predicted in 27.466155 seconds.
+Enter Image Path: ./data/Images/1464.jpg: Predicted in 25.648664 seconds.
+Enter Image Path: ./data/Images/1465.jpg: Predicted in 28.315716 seconds.
+Enter Image Path: ./data/Images/1469.jpg: Predicted in 25.445193 seconds.
+Enter Image Path: ./data/Images/1472.jpg: Predicted in 28.490441 seconds.
+Enter Image Path: ./data/Images/1473.jpg: Predicted in 25.422158 seconds.
+car: 72%
+car: 55%
+car: 55%
+car: 53%
+Enter Image Path: ./data/Images/1474.jpg: Predicted in 27.640656 seconds.
+bench: 67%
+Enter Image Path: ./data/Images/1478.jpg: Predicted in 27.730695 seconds.
+bench: 100%
+Enter Image Path: ./data/Images/1479.jpg: Predicted in 28.179718 seconds.
+bed: 67%
+Enter Image Path: ./data/Images/1480.jpg: Predicted in 28.134875 seconds.
+Enter Image Path: ./data/Images/1481.jpg: Predicted in 27.767521 seconds.
+Enter Image Path: ./data/Images/1503.jpg: Predicted in 27.886508 seconds.
+Enter Image Path: ./data/Images/1504.jpg: Predicted in 27.574083 seconds.
+car: 89%
+car: 88%
+car: 86%
+car: 84%
+car: 82%
+car: 71%
+car: 71%
+car: 68%
+car: 64%
+car: 56%
+car: 56%
+car: 52%
+Enter Image Path: ./data/Images/1505.jpg: Predicted in 28.829495 seconds.
+car: 100%
+car: 77%
+car: 75%
+car: 74%
+car: 62%
+car: 57%
+Enter Image Path: ./data/Images/1511.jpg: Predicted in 28.011942 seconds.
+car: 99%
+Enter Image Path: ./data/Images/1578.jpg: Predicted in 28.093663 seconds.
+person: 97%
+person: 91%
+person: 84%
+Enter Image Path: ./data/Images/1579.jpg: Predicted in 29.287585 seconds.
+car: 98%
+Enter Image Path: ./data/Images/1583.jpg: Predicted in 28.020746 seconds.
+Enter Image Path: ./data/Images/1585.jpg: Predicted in 30.050910 seconds.
+Enter Image Path: ./data/Images/1591.jpg: Predicted in 29.137747 seconds.
+Enter Image Path: ./data/Images/1598.jpg: Predicted in 25.423092 seconds.
+Enter Image Path: ./data/Images/1599.jpg: Predicted in 28.625486 seconds.
+Enter Image Path: ./data/Images/1602.jpg: Predicted in 25.460236 seconds.
+Enter Image Path: ./data/Images/1603.jpg: Predicted in 28.475189 seconds.
+Enter Image Path: ./data/Images/1612.jpg: Predicted in 28.009862 seconds.
+Enter Image Path: ./data/Images/1615.jpg: Predicted in 25.951840 seconds.
+bicycle: 95%
+Enter Image Path: ./data/Images/1616.jpg: Predicted in 27.564725 seconds.
+Enter Image Path: ./data/Images/1634.jpg: Predicted in 31.134970 seconds.
+Enter Image Path: ./data/Images/1640.jpg: Predicted in 27.891413 seconds.
+Enter Image Path: ./data/Images/1642.jpg: Predicted in 30.045217 seconds.
+stop sign: 79%
+Enter Image Path: ./data/Images/1645.jpg: Predicted in 29.330118 seconds.
+Enter Image Path: ./data/Images/1650.jpg: Predicted in 27.950895 seconds.
+car: 99%
+car: 98%
+car: 93%
+car: 73%
+car: 62%
+car: 54%
+Enter Image Path: ./data/Images/1654.jpg: Predicted in 29.899151 seconds.
+Enter Image Path: ./data/Images/1657.jpg: Predicted in 31.452334 seconds.
+cell phone: 56%
+Enter Image Path: ./data/Images/1659.jpg: Predicted in 29.797059 seconds.
+truck: 98%
+truck: 97%
+truck: 95%
+truck: 93%
+truck: 90%
+truck: 79%
+car: 51%
+truck: 53%
+car: 81%
+car: 70%
+Enter Image Path: ./data/Images/1663.jpg: Predicted in 28.836500 seconds.
+car: 94%
+Enter Image Path: ./data/Images/1667.jpg: Predicted in 27.821344 seconds.
+Enter Image Path: ./data/Images/1668.jpg: Predicted in 25.365108 seconds.
+truck: 56%
+car: 89%
+car: 88%
+Enter Image Path: ./data/Images/1672.jpg: Predicted in 28.035495 seconds.
+car: 98%
+car: 91%
+car: 80%
+car: 78%
+car: 68%
+Enter Image Path: ./data/Images/1673.jpg: Predicted in 28.202995 seconds.
+truck: 57%
+car: 69%
+Enter Image Path: ./data/Images/1691.jpg: Predicted in 30.028178 seconds.
+Enter Image Path: ./data/Images/1694.jpg: Predicted in 28.836299 seconds.
+car: 79%
+Enter Image Path: ./data/Images/1696.jpg: Predicted in 25.434242 seconds.
+Enter Image Path: ./data/Images/1717.jpg: Predicted in 30.279844 seconds.
+Enter Image Path: ./data/Images/1721.jpg: Predicted in 25.294867 seconds.
+truck: 53%
+car: 77%
+Enter Image Path: ./data/Images/1722.jpg: Predicted in 28.128923 seconds.
+Enter Image Path: ./data/Images/1724.jpg: Predicted in 27.002284 seconds.
+chair: 85%
+bench: 78%
+bench: 64%
+Enter Image Path: ./data/Images/1735.jpg: Predicted in 26.992894 seconds.
+bench: 63%
+car: 79%
+Enter Image Path: ./data/Images/1749.jpg: Predicted in 28.461958 seconds.
+Enter Image Path: ./data/Images/1752.jpg: Predicted in 28.149061 seconds.
+car: 99%
+car: 97%
+car: 95%
+car: 95%
+car: 90%
+car: 85%
+Enter Image Path: ./data/Images/1798.jpg: Predicted in 27.758525 seconds.
+car: 98%
+car: 98%
+car: 93%
+car: 90%
+car: 89%
+car: 87%
+car: 74%
+car: 58%
+car: 58%
+Enter Image Path: ./data/Images/1806.jpg: Predicted in 30.328722 seconds.
+Enter Image Path: ./data/Images/1866.jpg: Predicted in 25.364665 seconds.
+Enter Image Path: ./data/Images/1868.jpg: Predicted in 28.010246 seconds.
+car: 59%
+truck: 53%
+car: 97%
+car: 97%
+car: 93%
+car: 89%
+car: 84%
+car: 56%
+car: 53%
+person: 57%
+Enter Image Path: ./data/Images/1869.jpg: Predicted in 27.370634 seconds.
+Enter Image Path: ./data/Images/1903.jpg: Predicted in 30.123271 seconds.
+car: 100%
+car: 94%
+Enter Image Path: ./data/Images/1913.jpg: Predicted in 25.400112 seconds.
+truck: 100%
+truck: 76%
+car: 97%
+car: 79%
+person: 91%
+Enter Image Path: ./data/Images/1918.jpg: Predicted in 29.925808 seconds.
+truck: 62%
+car: 97%
+car: 96%
+car: 96%
+car: 93%
+car: 91%
+car: 87%
+car: 87%
+car: 85%
+car: 79%
+car: 79%
+car: 66%
+car: 52%
+Enter Image Path: ./data/Images/1919.jpg: Predicted in 28.020062 seconds.
+car: 100%
+car: 99%
+car: 98%
+Enter Image Path: ./data/Images/1921.jpg: Predicted in 27.749570 seconds.
+Enter Image Path: ./data/Images/1940.jpg: Predicted in 30.243406 seconds.
+car: 100%
+car: 99%
+car: 99%
+car: 90%
+Enter Image Path: ./data/Images/1945.jpg: Predicted in 26.840094 seconds.
+truck: 81%
+car: 97%
+Enter Image Path: ./data/Images/1954.jpg: Predicted in 29.554034 seconds.
+car: 68%
+person: 55%
+Enter Image Path: ./data/Images/1959.jpg: Predicted in 28.794317 seconds.
+car: 76%
+Enter Image Path: ./data/Images/1964.jpg: Predicted in 27.934407 seconds.
+car: 63%
+Enter Image Path: ./data/Images/1965.jpg: Predicted in 27.937401 seconds.
+truck: 96%
+car: 100%
+car: 100%
+car: 98%
+car: 96%
+car: 95%
+car: 95%
+car: 94%
+car: 68%
+person: 93%
+Enter Image Path: ./data/Images/1969.jpg: Predicted in 29.459840 seconds.
+Enter Image Path: ./data/Images/1972.jpg: Predicted in 29.646561 seconds.
+Enter Image Path: ./data/Images/1973.jpg: Predicted in 29.310949 seconds.
+car: 93%
+car: 86%
+Enter Image Path: ./data/Images/2042.jpg: Predicted in 28.737191 seconds.
+truck: 72%
+car: 99%
+car: 98%
+car: 92%
+car: 81%
+Enter Image Path: ./data/Images/2043.jpg: Predicted in 28.177959 seconds.
+truck: 66%
+car: 54%
+car: 100%
+car: 98%
+car: 96%
+car: 91%
+car: 90%
+Enter Image Path: ./data/Images/2083.jpg: Predicted in 27.500675 seconds.
+Enter Image Path: ./data/Images/2133.jpg: Predicted in 28.105908 seconds.
+Enter Image Path: ./data/Images/2139.jpg: Predicted in 27.028234 seconds.
+truck: 63%
+Enter Image Path: ./data/Images/2149.jpg: Predicted in 25.530746 seconds.
+car: 57%
+Enter Image Path: ./data/Images/2167.jpg: Predicted in 27.862800 seconds.
+Enter Image Path: ./data/Images/2195.jpg: Predicted in 30.014169 seconds.
+truck: 72%
+car: 93%
+car: 88%
+car: 85%
+car: 83%
+car: 77%
+car: 77%
+car: 51%
+car: 50%
+Enter Image Path: ./data/Images/2253.jpg: Predicted in 30.388427 seconds.
+frisbee: 60%
+Enter Image Path: ./data/Images/2256.jpg: Predicted in 25.405355 seconds.
+chair: 77%
+Enter Image Path: ./data/Images/2272.jpg: Predicted in 28.907436 seconds.
+Enter Image Path: ./data/Images/2273.jpg: Predicted in 26.639628 seconds.
+stop sign: 85%
+Enter Image Path: ./data/Images/2274.jpg: Predicted in 30.220155 seconds.
+Enter Image Path: ./data/Images/2275.jpg: Predicted in 28.621202 seconds.
+Enter Image Path: ./data/Images/2347.jpg: Predicted in 28.115416 seconds.
+bottle: 65%
+Enter Image Path: ./data/Images/2363.jpg: Predicted in 28.384433 seconds.
+Enter Image Path: ./data/Images/2374.jpg: Predicted in 28.506499 seconds.
+Enter Image Path: ./data/Images/2418.jpg: Predicted in 28.501653 seconds.
+Enter Image Path: ./data/Images/2422.jpg: Predicted in 27.976381 seconds.
+Enter Image Path: ./data/Images/2452.jpg: Predicted in 27.752505 seconds.
+bench: 57%
+car: 87%
+car: 86%
+Enter Image Path: ./data/Images/2466.jpg: Predicted in 28.395788 seconds.
+car: 96%
+car: 95%
+car: 95%
+car: 94%
+car: 94%
+car: 94%
+car: 83%
+car: 64%
+Enter Image Path: ./data/Images/2467.jpg: Predicted in 28.929299 seconds.
+car: 85%
+car: 84%
+car: 76%
+car: 73%
+car: 64%
+car: 61%
+car: 61%
+Enter Image Path: ./data/Images/2468.jpg: Predicted in 28.971974 seconds.
+car: 86%
+car: 86%
+car: 79%
+car: 69%
+Enter Image Path: ./data/Images/2501.jpg: Predicted in 29.308146 seconds.
+bird: 98%
+Enter Image Path: ./data/Images/2507.jpg: Predicted in 28.104080 seconds.
+chair: 89%
+Enter Image Path: ./data/Images/2516.jpg: Predicted in 28.536116 seconds.
+person: 100%
+Enter Image Path: ./data/Images/2518.jpg: Predicted in 28.576569 seconds.
+Enter Image Path: ./data/Images/2520.jpg: Predicted in 27.642721 seconds.
+bench: 99%
+bench: 57%
+Enter Image Path: ./data/Images/2528.jpg: Predicted in 30.186769 seconds.
+Enter Image Path: ./data/Images/2529.jpg: Predicted in 25.738328 seconds.
+Enter Image Path: ./data/Images/2564.jpg: Predicted in 27.729656 seconds.
+bear: 100%
+bear: 90%
+person: 95%
+person: 73%
+Enter Image Path: ./data/Images/2565.jpg: Predicted in 29.838505 seconds.
+Enter Image Path: ./data/Images/2599.jpg: Predicted in 28.326479 seconds.
+chair: 61%
+bottle: 54%
+bench: 53%
+person: 100%
+person: 100%
+person: 100%
+person: 99%
+person: 98%
+person: 96%
+person: 90%
+person: 89%
+person: 82%
+person: 70%
+person: 67%
+person: 67%
+person: 63%
+person: 58%
+person: 54%
+person: 53%
+Enter Image Path: ./data/Images/2608.jpg: Predicted in 28.910328 seconds.
+Enter Image Path: ./data/Images/2633.jpg: Predicted in 30.947489 seconds.
+bird: 78%
+person: 95%
+person: 92%
+person: 86%
+person: 81%
+person: 71%
+person: 70%
+Enter Image Path: ./data/Images/2645.jpg: Predicted in 28.117730 seconds.
+Enter Image Path: ./data/Images/2651.jpg: Predicted in 28.937214 seconds.
+Enter Image Path: ./data/Images/2656.jpg: Predicted in 28.672593 seconds.
+Enter Image Path: ./data/Images/2657.jpg: Predicted in 27.764490 seconds.
+Enter Image Path: ./data/Images/2658.jpg: Predicted in 31.079339 seconds.
+bear: 98%
+Enter Image Path: ./data/Images/2696.jpg: Predicted in 27.890744 seconds.
+bird: 100%
+bird: 97%
+Enter Image Path: ./data/Images/2707.jpg: Predicted in 28.097259 seconds.
+Enter Image Path: ./data/Images/4004.jpg: Predicted in 28.892185 seconds.
+truck: 91%
+car: 86%
+car: 53%
+Enter Image Path: ./data/Images/4007.jpg: Predicted in 27.762990 seconds.
+car: 99%
+car: 51%
+Enter Image Path: ./data/Images/4017.jpg: Predicted in 28.795544 seconds.
+car: 100%
+car: 98%
+car: 97%
+car: 97%
+car: 96%
+car: 86%
+car: 81%
+car: 78%
+car: 74%
+car: 73%
+car: 67%
+car: 63%
+car: 57%
+car: 55%
+car: 53%
+Enter Image Path: ./data/Images/4023.jpg: Predicted in 28.629158 seconds.
+car: 100%
+car: 98%
+car: 52%
+Enter Image Path: ./data/Images/4024.jpg: Predicted in 29.957355 seconds.
+car: 100%
+Enter Image Path: ./data/Images/4025.jpg: Predicted in 28.064200 seconds.
+Enter Image Path: ./data/Images/4048.jpg: Predicted in 28.912891 seconds.
+car: 97%
+car: 96%
+car: 87%
+car: 83%
+Enter Image Path: ./data/Images/4062.jpg: Predicted in 26.243400 seconds.
+car: 95%
+Enter Image Path: ./data/Images/4067.jpg: Predicted in 27.174271 seconds.
+Enter Image Path: ./data/Images/4068.jpg: Predicted in 27.377574 seconds.
+Enter Image Path: ./data/Images/4073.jpg: Predicted in 27.656120 seconds.
+Enter Image Path: ./data/Images/4075.jpg: Predicted in 27.598874 seconds.
+bench: 95%
+bench: 88%
+Enter Image Path: ./data/Images/4077.jpg: Predicted in 27.608825 seconds.
+Enter Image Path: ./data/Images/4079.jpg: Predicted in 27.989561 seconds.
+Enter Image Path: ./data/Images/4081.jpg: Predicted in 28.798600 seconds.
+truck: 87%
+Enter Image Path: ./data/Images/4090.jpg: Predicted in 28.460967 seconds.
+Enter Image Path: ./data/Images/4092.jpg: Predicted in 29.500963 seconds.
+car: 100%
+Enter Image Path: ./data/Images/4098.jpg: Predicted in 27.944707 seconds.
+car: 100%
+car: 94%
+car: 84%
+Enter Image Path: ./data/Images/4103.jpg: Predicted in 28.315646 seconds.
+car: 95%
+car: 81%
+car: 78%
+car: 57%
+car: 52%
+Enter Image Path: ./data/Images/4104.jpg: Predicted in 27.617879 seconds.
+truck: 84%
+car: 100%
+car: 99%
+car: 98%
+car: 78%
+car: 64%
+car: 63%
+car: 59%
+Enter Image Path: ./data/Images/4106.jpg: Predicted in 27.727077 seconds.
+car: 94%
+car: 82%
+Enter Image Path: ./data/Images/4111.jpg: Predicted in 29.128350 seconds.
+car: 69%
+car: 63%
+car: 56%
+person: 93%
+person: 70%
+person: 53%
+Enter Image Path: ./data/Images/4116.jpg: Predicted in 28.022478 seconds.
+car: 52%
+truck: 70%
+car: 99%
+car: 94%
+car: 93%
+car: 87%
+car: 81%
+car: 81%
+car: 52%
+Enter Image Path: ./data/Images/4117.jpg: Predicted in 28.093558 seconds.
+truck: 93%
+truck: 90%
+car: 78%
+car: 73%
+car: 68%
+car: 67%
+Enter Image Path: ./data/Images/4118.jpg: Predicted in 28.300100 seconds.
+car: 99%
+car: 99%
+car: 98%
+Enter Image Path: ./data/Images/4125.jpg: Predicted in 30.053011 seconds.
+Enter Image Path: ./data/Images/4130.jpg: Predicted in 27.609402 seconds.
+truck: 96%
+car: 89%
+car: 78%
+Enter Image Path: ./data/Images/4143.jpg: Predicted in 28.126980 seconds.
+car: 89%
+person: 100%
+person: 97%
+Enter Image Path: ./data/Images/4145.jpg: Predicted in 28.009200 seconds.
+car: 100%
+Enter Image Path: ./data/Images/4170.jpg: Predicted in 28.269607 seconds.
+truck: 97%
+Enter Image Path: ./data/Images/4187.jpg: Predicted in 29.265925 seconds.
+truck: 93%
+car: 100%
+Enter Image Path: ./data/Images/4193.jpg: Predicted in 27.284844 seconds.
+car: 81%
+Enter Image Path: ./data/Images/4205.jpg: Predicted in 29.734645 seconds.
+truck: 84%
+car: 95%
+car: 84%
+car: 71%
+car: 71%
+car: 63%
+car: 51%
+Enter Image Path: ./data/Images/4210.jpg: Predicted in 27.795412 seconds.
+Enter Image Path: ./data/Images/4211.jpg: Predicted in 29.017847 seconds.
+car: 100%
+car: 85%
+Enter Image Path: ./data/Images/4222.jpg: Predicted in 29.969626 seconds.
+Enter Image Path: ./data/Images/4241.jpg: Predicted in 28.005958 seconds.
+Enter Image Path: ./data/Images/4244.jpg: Predicted in 28.103724 seconds.
+car: 98%
+car: 97%
+Enter Image Path: ./data/Images/4270.jpg: Predicted in 28.001505 seconds.
+Enter Image Path: ./data/Images/4282.jpg: Predicted in 29.872015 seconds.
+car: 71%
+Enter Image Path: ./data/Images/4286.jpg: Predicted in 28.531183 seconds.
+Enter Image Path: ./data/Images/4287.jpg: Predicted in 28.245819 seconds.
+Enter Image Path: ./data/Images/4288.jpg: Predicted in 28.597298 seconds.
+Enter Image Path: ./data/Images/4305.jpg: Predicted in 26.960451 seconds.
+Enter Image Path: ./data/Images/4308.jpg: Predicted in 28.161435 seconds.
+car: 80%
+car: 79%
+Enter Image Path: ./data/Images/4323.jpg: Predicted in 30.087996 seconds.
+car: 65%
+Enter Image Path: ./data/Images/4329.jpg: Predicted in 27.554250 seconds.
+car: 89%
+Enter Image Path: ./data/Images/4330.jpg: Predicted in 28.057566 seconds.
+car: 99%
+Enter Image Path: ./data/Images/4331.jpg: Predicted in 28.759644 seconds.
+truck: 91%
+truck: 77%
+car: 98%
+car: 97%
+car: 97%
+car: 96%
+car: 90%
+car: 72%
+car: 65%
+car: 65%
+person: 66%
+Enter Image Path: ./data/Images/4336.jpg: Predicted in 28.904739 seconds.
+Enter Image Path: ./data/Images/4348.jpg: Predicted in 29.321963 seconds.
+stop sign: 100%
+Enter Image Path: ./data/Images/4349.jpg: Predicted in 28.459272 seconds.
+truck: 76%
+car: 51%
+car: 98%
+car: 92%
+car: 70%
+Enter Image Path: ./data/Images/4352.jpg: Predicted in 29.965454 seconds.
+chair: 94%
+Enter Image Path: ./data/Images/4357.jpg: Predicted in 26.935275 seconds.
+truck: 58%
+car: 99%
+car: 64%
+Enter Image Path: ./data/Images/4360.jpg: Predicted in 28.105955 seconds.
+Enter Image Path: ./data/Images/4372.jpg: Predicted in 28.542907 seconds.
+Enter Image Path: ./data/Images/4377.jpg: Predicted in 29.974509 seconds.
+car: 51%
+truck: 57%
+car: 90%
+Enter Image Path: ./data/Images/4379.jpg: Predicted in 28.050220 seconds.
+Enter Image Path: ./data/Images/4385.jpg: Predicted in 27.724784 seconds.
+truck: 95%
+Enter Image Path: ./data/Images/4389.jpg: Predicted in 27.961344 seconds.
+truck: 79%
+car: 85%
+car: 62%
+car: 50%
+Enter Image Path: ./data/Images/4397.jpg: Predicted in 28.471376 seconds.
+car: 99%
+Enter Image Path: ./data/Images/4398.jpg: Predicted in 27.739231 seconds.
+Enter Image Path: ./data/Images/4399.jpg: Predicted in 27.702722 seconds.
+truck: 96%
+car: 100%
+car: 99%
+car: 67%
+car: 57%
+Enter Image Path: ./data/Images/4411.jpg: Predicted in 31.352104 seconds.
+car: 69%
+car: 69%
+car: 65%
+car: 56%
+person: 69%
+Enter Image Path: ./data/Images/4417.jpg: Predicted in 27.743871 seconds.
+truck: 62%
+truck: 53%
+car: 93%
+car: 87%
+car: 78%
+car: 73%
+Enter Image Path: ./data/Images/4428.jpg: Predicted in 28.942515 seconds.
+car: 96%
+car: 95%
+car: 93%
+car: 93%
+car: 88%
+car: 88%
+car: 80%
+car: 72%
+car: 71%
+car: 61%
+car: 55%
+car: 52%
+Enter Image Path: ./data/Images/4429.jpg: Predicted in 28.211851 seconds.
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 98%
+person: 97%
+person: 96%
+person: 96%
+person: 96%
+person: 96%
+person: 94%
+person: 89%
+person: 62%
+Enter Image Path: ./data/Images/4431.jpg: Predicted in 29.217832 seconds.
+truck: 89%
+car: 99%
+car: 89%
+person: 99%
+person: 99%
+person: 97%
+person: 66%
+person: 54%
+Enter Image Path: ./data/Images/4433.jpg: Predicted in 28.249949 seconds.
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 97%
+person: 97%
+Enter Image Path: ./data/Images/4440.jpg: Predicted in 28.298934 seconds.
+car: 71%
+person: 100%
+person: 100%
+person: 97%
+person: 96%
+person: 96%
+person: 86%
+Enter Image Path: ./data/Images/4450.jpg: Predicted in 27.217467 seconds.
+Enter Image Path: ./data/Images/4454.jpg: Predicted in 30.138757 seconds.
+car: 65%
+Enter Image Path: ./data/Images/4461.jpg: Predicted in 29.129568 seconds.
+bird: 98%
+bird: 98%
+bird: 93%
+bird: 89%
+person: 64%
+person: 63%
+Enter Image Path: ./data/Images/4469.jpg: Predicted in 28.630100 seconds.
+person: 71%
+Enter Image Path: ./data/Images/4477.jpg: Predicted in 28.116037 seconds.
+person: 97%
+Enter Image Path: ./data/Images/4541.jpg: Predicted in 28.872574 seconds.
+bench: 57%
+bench: 55%
+Enter Image Path: ./data/Images/4598.jpg: Predicted in 28.376854 seconds.
+Enter Image Path: ./data/Images/4611.jpg: Predicted in 30.735232 seconds.
+car: 92%
+Enter Image Path: ./data/Images/4612.jpg: Predicted in 29.033450 seconds.
+car: 87%
+Enter Image Path: ./data/Images/4624.jpg: Predicted in 27.075430 seconds.
+car: 100%
+Enter Image Path: ./data/Images/4643.jpg: Predicted in 29.647121 seconds.
+car: 99%
+car: 98%
+car: 93%
+car: 70%
+car: 64%
+car: 61%
+Enter Image Path: ./data/Images/4646.jpg: Predicted in 27.608533 seconds.
+Enter Image Path: ./data/Images/4660.jpg: Predicted in 30.747816 seconds.
+person: 56%
+Enter Image Path: ./data/Images/4676.jpg: Predicted in 30.784699 seconds.
+person: 100%
+person: 100%
+person: 99%
+person: 97%
+person: 97%
+person: 97%
+person: 97%
+person: 95%
+person: 86%
+person: 85%
+Enter Image Path: ./data/Images/4677.jpg: Predicted in 30.763547 seconds.
+person: 100%
+person: 100%
+person: 99%
+person: 99%
+person: 99%
+person: 98%
+person: 95%
+person: 90%
+person: 84%
+person: 73%
+person: 70%
+person: 54%
+Enter Image Path: ./data/Images/4679.jpg: Predicted in 30.157035 seconds.
+person: 100%
+person: 99%
+person: 98%
+person: 98%
+person: 98%
+person: 98%
+person: 97%
+person: 96%
+person: 96%
+person: 92%
+person: 91%
+person: 86%
+person: 76%
+person: 63%
+person: 51%
+Enter Image Path: ./data/Images/4697.jpg: Predicted in 27.949132 seconds.
+car: 88%
+car: 55%
+Enter Image Path: ./data/Images/4757.jpg: Predicted in 28.764387 seconds.
+car: 70%
+Enter Image Path: ./data/Images/4791.jpg: Predicted in 30.837883 seconds.
+truck: 89%
+truck: 71%
+car: 69%
+truck: 61%
+car: 97%
+car: 85%
+car: 60%
+Enter Image Path: ./data/Images/4857.jpg: Predicted in 27.774693 seconds.
+truck: 77%
+car: 51%
+truck: 61%
+car: 54%
+car: 99%
+car: 98%
+car: 95%
+car: 94%
+car: 74%
+car: 62%
+Enter Image Path: ./data/Images/4891.jpg: Predicted in 28.942852 seconds.
+Enter Image Path: ./data/Images/4911.jpg: Predicted in 29.465612 seconds.
+stop sign: 87%
+Enter Image Path: ./data/Images/4941.jpg: Predicted in 31.452506 seconds.
+car: 97%
+car: 93%
+car: 90%
+car: 90%
+car: 88%
+car: 83%
+car: 82%
+car: 81%
+car: 77%
+car: 75%
+car: 74%
+car: 65%
+car: 64%
+car: 59%
+car: 57%
+car: 55%
+Enter Image Path: ./data/Images/5026.jpg: Predicted in 25.665725 seconds.
+car: 89%
+car: 88%
+car: 87%
+car: 65%
+Enter Image Path: ./data/Images/5029.jpg: Predicted in 27.655061 seconds.
+truck: 91%
+car: 98%
+car: 98%
+car: 92%
+car: 89%
+car: 78%
+car: 70%
+Enter Image Path: ./data/Images/5034.jpg: Predicted in 28.193281 seconds.
+Enter Image Path: ./data/Images/5041.jpg: Predicted in 29.602066 seconds.
+truck: 66%
+car: 75%
+person: 70%
+person: 63%
+Enter Image Path: ./data/Images/5048.jpg: Predicted in 29.203406 seconds.
+person: 100%
+Enter Image Path: ./data/Images/5049.jpg: Predicted in 27.100635 seconds.
+person: 100%
+Enter Image Path: ./data/Images/5050.jpg: Predicted in 29.213801 seconds.
+person: 100%
+Enter Image Path: ./data/Images/5051.jpg: Predicted in 27.587522 seconds.
+person: 100%
+Enter Image Path: ./data/Images/5052.jpg: Predicted in 27.498162 seconds.
+person: 100%
+Enter Image Path: ./data/Images/5123.jpg: Predicted in 28.292994 seconds.
+truck: 66%
+car: 71%
+car: 99%
+car: 81%
+car: 58%
+Enter Image Path: ./data/Images/5126.jpg: Predicted in 27.376915 seconds.
+truck: 75%
+Enter Image Path: ./data/Images/5140.jpg: Predicted in 28.396516 seconds.
+Enter Image Path: ./data/Images/5154.jpg: Predicted in 27.456625 seconds.
+Enter Image Path: ./data/Images/5213.jpg: Predicted in 28.682556 seconds.
+car: 95%
+car: 87%
+car: 64%
+Enter Image Path: ./data/Images/5228.jpg: Predicted in 29.445672 seconds.
+Enter Image Path: ./data/Images/5294.jpg: Predicted in 30.287473 seconds.
+cell phone: 100%
+Enter Image Path: ./data/Images/5302.jpg: Predicted in 29.581019 seconds.
+car: 80%
+Enter Image Path: ./data/Images/6800.jpg: Predicted in 29.356106 seconds.
+car: 81%
+Enter Image Path:

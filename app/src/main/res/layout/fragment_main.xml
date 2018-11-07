@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+        <include
+            android:id="@+id/app_bar"
+            layout="@layout/search_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/app_bar">
+
+            <TextView
+                android:id="@+id/results"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/eight_dp"
+                android:text="@string/results" />
+
+            <LinearLayout
+                android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/results"
+                android:layout_marginLeft="@dimen/eight_dp"
+                android:layout_marginRight="@dimen/eight_dp"
+                android:background="@color/dark_gray"
+                android:orientation="horizontal" />
+
+            <RelativeLayout
+                android:id="@+id/results_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/line">
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/image_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </android.support.v7.widget.RecyclerView>
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+</RelativeLayout>
